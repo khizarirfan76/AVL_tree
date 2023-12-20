@@ -1,0 +1,1 @@
+you can download all the files(excluding the README and the license obviously) put them in a folder and just open the folder with CLion, or if using some other peasant compiler then just download the main.cpp. 
